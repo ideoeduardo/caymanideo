@@ -98,7 +98,7 @@ end
 
 ### Large image
 
-![Octocat](img/abceo.png)
+![Octocat](imaes/baner-web-05.jpg)
 
 ### Definition lists can be used with HTML syntax.
 
